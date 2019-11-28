@@ -1,4 +1,4 @@
-package com.fdmgroup.BookStoreTTD;
+package com.fdmgroup.BookStore;
 
 import java.util.HashMap;
 
